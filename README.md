@@ -1,5 +1,7 @@
 # Hi, I'm Muhammad Umer 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Full-Stack+Developer;Laravel+%7C+Vue.js+%7C+Electron.js+Expert;Let's+Build+Something+Awesome!)](https://git.io/typing-svg)
+
 I'm a **Full-Stack Developer** specializing in **Laravel**, **Vue.js**, **Electron**, and **Node.js**.  
 I build modern web applications, scalable APIs, and powerful desktop applications.  
 Currently working as a **Full Stack Developer at Digital Point**.
