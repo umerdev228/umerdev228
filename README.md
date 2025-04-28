@@ -4,7 +4,7 @@
 
 I'm a **Full-Stack Developer** specializing in **Laravel**, **Vue.js**, **Electron**, and **Node.js**.  
 I build modern web applications, scalable APIs, and powerful desktop applications.  
-Currently working as a **Full Stack Developer at Digital Point**.
+# Currently working as a **Full Stack Developer at Digital Point**.
 
 🌟 6+ years of professional experience  
 🌟 Specialized in Shopify-Laravel integrations, Electron desktop apps, and large database optimizations  
