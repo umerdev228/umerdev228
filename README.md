@@ -7,7 +7,7 @@ I build modern web applications, scalable APIs, and powerful desktop application
 # Currently working as a **Full Stack Developer at Digital Point**.
 
 🌟 6+ years of professional experience  
-🌟 Specialized in Shopify-Laravel integrations, Electron desktop apps, and large database optimizations  
+🌟 Specialized in Laravel applications, Electron desktop apps, and large database optimizations  
 🌟 Passionate about building efficient, scalable, and user-friendly applications
 
 ---
