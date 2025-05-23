@@ -48,7 +48,7 @@ I build modern web applications, scalable APIs, and powerful desktop application
 
 - 📦 **Shopify Customer Portal**  
   Laravel + Shopify API Integration | Post-Purchase Customer Management  
-  [🔗 View Repository](https://github.com/umerdev228/shopify-portal)
+  [🔗 View Repository](https://github.com/umerdev228/laravel-shopify-app)
 
 ---
 
