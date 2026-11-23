@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** with **6+ years** of experience building **multi-
 
 Currently working as a **Senior Software Engineer at DP8** (since Dec 2022), previously Laravel Developer at MSN Softs (2019–2022).
 
-🌐 **Portfolio:** [umerdev228.github.io](https://umerdev228.github.io)
+🌐 **Portfolio:** [umerdev228.github.io](https://umerdev228.github.io) · 💬 **WhatsApp:** [+92 312 6020228](https://wa.me/923126020228) · 📩 **Email:** [umerdev228@gmail.com](mailto:umerdev228@gmail.com)
 
 🌟 100+ projects delivered: education, events & exhibitions, museums, beauty & wellness, e-commerce, logistics, healthcare IT, agriculture  
 🌟 Bilingual English / Arabic (RTL) products for Saudi Arabia, UAE, Kuwait and Oman  
@@ -110,6 +110,7 @@ Currently working as a **Senior Software Engineer at DP8** (since Dec 2022), pre
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/UmerDev228)
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01821b9705dd1d1efb)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/umer_dev)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp%20%2B92%20312%206020228-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923126020228)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:umerdev228@gmail.com)
 
 ---
