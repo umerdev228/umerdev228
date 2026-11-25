@@ -4,7 +4,7 @@
 
 I'm a **Full-Stack Developer** with **6+ years** of experience building **multi-tenant SaaS platforms, booking & payment systems, real-time event apps, interactive kiosks, desktop tools and AI integrations**, for clients across the UK, Europe and the GCC.
 
-Currently working as a **Senior Software Engineer at DP8** (since Dec 2022), previously Laravel Developer at MSN Softs (2019–2022).
+Currently working as a **Senior Software Engineer at DP8** (since Aug 2023); previously Senior Laravel & Vue.js Developer at IlmZone.pk (2021–2023) and Laravel Developer at MSN Softs (2019–2021).
 
 🌐 **Portfolio:** [umerdev228.github.io](https://umerdev228.github.io) · 💬 **WhatsApp:** [+92 312 6020228](https://wa.me/923126020228) · 📩 **Email:** [umerdev228@gmail.com](mailto:umerdev228@gmail.com)
 
